@@ -73,7 +73,7 @@ controller:
 
   ## Name of the ingress class to route through this controller
   ##
-  ingressClass: nginx
+  ingressClass: nginxhelm
 
   # labels to add to the deployment metadata
   deploymentLabels: {}
