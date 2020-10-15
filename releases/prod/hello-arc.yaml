@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hello OCHIN team, Welcome to MTC Silicon Valley. This is Arc GitOps Demo! Message from Production.
+      value: Welcome to MTC Silicon Valley. This is Arc GitOps Demo! Message from Production.
