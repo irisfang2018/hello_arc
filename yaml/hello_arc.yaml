@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello KLA Team, Welcome to MTC Silicon Valley. This is an Azure Arc GitOps Demo.
+          value: Hello KLA Team, This is an Azure Arc GitOps Demo. 
